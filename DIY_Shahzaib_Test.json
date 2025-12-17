@@ -1,0 +1,61 @@
+{
+	"adPriority": 0,
+	"IntPriority": 0,
+	"RwdPriority": 0,
+	"IsTestAds": false,
+	"disableAds": false,
+	"IsForFamily": false,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 3,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 10,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": true,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": false
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 10,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X",
+			"FaceMassage",
+			"EyekmakeUp_Style",
+			"LipStickmakeUp_Style"
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
+		]
+	},
+	"gameConfigs": {
+		"useToolSound": true,
+		"LeftEye": true
+	}
+}
