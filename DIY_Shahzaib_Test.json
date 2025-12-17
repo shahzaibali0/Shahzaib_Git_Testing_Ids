@@ -1,7 +1,7 @@
 {
-	"adPriority": 0,
-	"IntPriority": 0,
-	"RwdPriority": 0,
+	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -27,7 +27,7 @@
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
-		"FirebaseAnalyticsEnabled": false
+		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
