@@ -2,7 +2,7 @@
 	"adPriority": 1,
 	"IntPriority": 1,
 	"RwdPriority": 1,
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
